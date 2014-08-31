@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[无关风月]]></title>
+  <subtitle><![CDATA[无关风月]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://wenchao.info/"/>
+  <updated>2014-08-31T11:17:19.001Z</updated>
+  <id>http://wenchao.info/</id>
+  
+  <author>
+    <name><![CDATA[无关风月]]></name>
+    <email><![CDATA[zjuhwc@gmail.com]]></email>
+  </author>
+  
+  <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[start-again]]></title>
+    <link href="http://wenchao.info/2014/08/31/start-again/"/>
+    <id>http://wenchao.info/2014/08/31/start-again/</id>
+    <published>2014-08-31T11:16:11.000Z</published>
+    <updated>2014-08-31T11:16:42.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="start_again">start again</h1>
+<h2 id="你懂的">你懂的</h2>
+]]></content>
+    
+    
+      <category term="你好" scheme="http://wenchao.info/tags/%E4%BD%A0%E5%A5%BD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[hello]]></title>
+    <link href="http://wenchao.info/2014/04/07/hello/"/>
+    <id>http://wenchao.info/2014/04/07/hello/</id>
+    <published>2014-04-07T15:31:21.000Z</published>
+    <updated>2014-04-07T15:31:21.000Z</updated>
+    <content type="html"><![CDATA[]]></content>
+    
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[新博客建立]]></title>
+    <link href="http://wenchao.info/2014/04/07/new-blog/"/>
+    <id>http://wenchao.info/2014/04/07/new-blog/</id>
+    <published>2014-04-07T07:08:44.000Z</published>
+    <updated>2014-04-07T15:07:38.000Z</updated>
+    <content type="html"><![CDATA[<p>重新折腾了个博客，基于hexo</p>
+<h2 id="教程">教程</h2>
+<ul>
+<li><a href="http://hexo.io/docs/index.html" target="_blank">官方文档</a></li>
+<li><a href="http://ibruce.info/2013/11/22/hexo-your-blog/" target="_blank">hexo你的博客</a></li>
+<li><a href="http://yangjian.me/workspace/building-blog-with-hexo/" target="_blank">使用hexo搭建博客</a>，pacman主题作者所作</li>
+</ul>
+<h2 id="主题">主题</h2>
+<ul>
+<li><a href="https://github.com/wzpan/hexo-theme-freemind" target="_blank">Freemind</a></li>
+<li><a href="https://github.com/A-limon/pacman" target="_blank">pacman</a></li>
+</ul>
+<h2 id="其他">其他</h2>
+<ul>
+<li><a href="https://help.github.com/articles/setting-up-a-custom-domain-with-pages" target="_blank">github pages 域名绑定</a></li>
+<li><a href="http://jiabin.tk/tags/Hexo/" target="_blank">给hexo添加一个404页面</a></li>
+<li><a href="http://zipperary.com/2013/06/02/hexo-guide-5/" target="_blank">hexo博客的优化技巧</a></li>
+<li><a href="http://hahack.com/tools/koding_intro/" target="_blank">珠联璧合：利用 Koding 为静态博客搭建在线编辑环境</a></li>
+<li><a href="http://wowubuntu.com/markdown/" target="_blank">markdown语法</a></li>
+</ul>
+<h2 id="注意事项">注意事项</h2>
+<ul>
+<li>安装插件时注意在博客目录中运行<code>npm install &lt;pluges&gt;</code>命令，否则将无法生成rss和sitemap文件</li>
+<li>favicon最好使用png格式的文件，ico部分浏览器不支持</li>
+</ul>
+<h2 id="To_Do">To Do</h2>
+<ul>
+<li>右上角社会化分享图标</li>
+<li>rss，放在右上角</li>
+<li>向搜索引擎提交sitemap</li>
+<li>自动截取140字作为摘要 </li>
+<li>建立分支，将博客源代码保存到github</li>
+<li>制作个人简历并挂在博客上</li>
+</ul>
+]]></content>
+    
+    
+      <category term="hexo" scheme="http://wenchao.info/tags/hexo/"/>
+    
+      <category term="web" scheme="http://wenchao.info/categories/web/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[test]]></title>
+    <link href="http://wenchao.info/2012/04/07/test/"/>
+    <id>http://wenchao.info/2012/04/07/test/</id>
+    <published>2012-04-07T15:01:51.000Z</published>
+    <updated>2014-04-07T15:33:34.000Z</updated>
+    <content type="html"><![CDATA[<h2 id="this_is_a_test">this is a test</h2>
+]]></content>
+    
+    
+      <category term="test" scheme="http://wenchao.info/tags/test/"/>
+    
+      <category term="test" scheme="http://wenchao.info/categories/test/"/>
+    
+  </entry>
+  
+</feed>

@@ -1,0 +1,107 @@
+date: 2014-04-07 19:19:53.536
+argv: node C:\Users\yely\AppData\Roaming\npm\node_modules\hexo\bin\hexo s
+os: Windows_NT 6.1.7600 win32 ia32
+version:
+  hexo: 2.5.2
+  http_parser: 1.0
+  node: 0.10.26
+  v8: 3.14.5.9
+  ares: 1.9.0-DEV
+  uv: 0.10.25
+  zlib: 1.2.3
+  modules: 11
+  openssl: 1.0.1e
+---
+
+[debug] 19:19:52.989 Config file loaded
+[debug] 19:19:52.994 Version info checked successfully
+[debug] 19:19:53.058 Loading database.
+[debug] 19:19:53.174 Plugin loaded successfully: hexo-generator-feed
+[debug] 19:19:53.204 Plugin loaded successfully: hexo-generator-sitemap
+[debug] 19:19:53.212 Plugin loaded successfully: hexo-tag-bootstrap
+[debug] 19:19:53.287 Processed: CNAME
+[debug] 19:19:53.288 Processed: img/logo.ico
+[debug] 19:19:53.301 Processed: img/logo.png
+[debug] 19:19:53.309 Processed: 404.html
+[debug] 19:19:53.324 Processed: about/index.md
+[debug] 19:19:53.325 Processed: categories/index.html
+[debug] 19:19:53.325 Processed: tags/index.html
+[debug] 19:19:53.325 Processed: _posts/2014-04-07-new-blog.md
+[debug] 19:19:53.328 Processed: LICENSE
+[debug] 19:19:53.328 Processed: README.md
+[debug] 19:19:53.378 Processed: source/css/bootstrap-responsive.css
+[debug] 19:19:53.379 Processed: source/css/bootstrap.min.css
+[debug] 19:19:53.380 Processed: source/css/font-awesome.css
+[debug] 19:19:53.387 Processed: source/css/highlight.css
+[debug] 19:19:53.388 Processed: source/css/responsive.css
+[debug] 19:19:53.389 Processed: source/css/style.css
+[debug] 19:19:53.389 Processed: source/fancybox/blank.gif
+[debug] 19:19:53.390 Processed: source/fancybox/fancybox_loading.gif
+[debug] 19:19:53.390 Processed: source/fancybox/fancybox_loading@2x.gif
+[debug] 19:19:53.390 Processed: source/fancybox/fancybox_overlay.png
+[debug] 19:19:53.391 Processed: source/fancybox/fancybox_sprite.png
+[debug] 19:19:53.391 Processed: source/fancybox/fancybox_sprite@2x.png
+[debug] 19:19:53.392 Processed: source/fancybox/jquery.fancybox.css
+[debug] 19:19:53.392 Processed: source/fancybox/jquery.fancybox.pack.js
+[debug] 19:19:53.393 Processed: source/fonts/FontAwesome.otf
+[debug] 19:19:53.394 Processed: source/fonts/fontawesome-webfont.eot
+[debug] 19:19:53.394 Processed: source/fonts/fontawesome-webfont.svg
+[debug] 19:19:53.395 Processed: source/fonts/fontawesome-webfont.ttf
+[debug] 19:19:53.396 Processed: source/fonts/fontawesome-webfont.woff
+[debug] 19:19:53.396 Processed: source/img/github-sprite.png
+[debug] 19:19:53.397 Processed: source/img/glyphicons-halflings-white.png
+[debug] 19:19:53.397 Processed: source/img/glyphicons-halflings.png
+[debug] 19:19:53.398 Processed: source/img/logo.ico
+[debug] 19:19:53.399 Processed: source/js/bootstrap.min.js
+[debug] 19:19:53.400 Processed: source/js/gallery.js
+[debug] 19:19:53.400 Processed: source/js/jquery-2.0.3.min.js
+[debug] 19:19:53.401 Processed: source/js/jquery.imagesloaded.min.js
+[debug] 19:19:53.402 Processed: source/js/main.js
+[debug] 19:19:53.407 Processed: layout/categories.ejs
+[debug] 19:19:53.407 Cache saved
+[debug] 19:19:53.407 Processed: layout/category.ejs
+[debug] 19:19:53.407 Processed: layout/index.ejs
+[debug] 19:19:53.407 Processed: layout/archive.ejs
+[debug] 19:19:53.407 Processed: layout/layout.ejs
+[debug] 19:19:53.408 Processed: layout/page.ejs
+[debug] 19:19:53.408 Processed: layout/post.ejs
+[debug] 19:19:53.408 Processed: layout/tag.ejs
+[debug] 19:19:53.408 Processed: layout/tags.ejs
+[debug] 19:19:53.408 Processed: layout/_widget/category.ejs
+[debug] 19:19:53.408 Processed: layout/_widget/links.ejs
+[debug] 19:19:53.408 Processed: layout/_widget/recent_posts.ejs
+[debug] 19:19:53.408 Processed: layout/_widget/search.ejs
+[debug] 19:19:53.408 Processed: layout/_widget/tagcloud.ejs
+[debug] 19:19:53.409 Processed: layout/_widget/weibo.ejs
+[debug] 19:19:53.409 Processed: layout/_partial/after_footer.ejs
+[debug] 19:19:53.410 Processed: layout/_partial/archive.ejs
+[debug] 19:19:53.410 Processed: layout/_partial/article.ejs
+[debug] 19:19:53.411 Processed: layout/_partial/footer.ejs
+[debug] 19:19:53.411 Processed: layout/_partial/head.ejs
+[debug] 19:19:53.411 Processed: layout/_partial/index.ejs
+[debug] 19:19:53.411 Processed: layout/_partial/index_pagination.ejs
+[debug] 19:19:53.412 Processed: layout/_partial/navigation.ejs
+[debug] 19:19:53.412 Processed: layout/_partial/sidebar.ejs
+[debug] 19:19:53.412 Processed: layout/_partial/post/comment.ejs
+[debug] 19:19:53.412 Processed: layout/_partial/post/entry.ejs
+[debug] 19:19:53.412 Processed: layout/_partial/post/google_analytics.ejs
+[debug] 19:19:53.412 Processed: layout/_partial/post/meta.ejs
+[debug] 19:19:53.412 Processed: layout/_partial/post/pagination.ejs
+[debug] 19:19:53.412 Processed: layout/_partial/post/slogan.ejs
+[debug] 19:19:53.412 Processed: layout/_partial/post/tag.ejs
+[debug] 19:19:53.412 Processed: layout/_partial/post/title.ejs
+[debug] 19:19:53.412 Processed: layout/_partial/post/category.ejs
+[debug] 19:19:53.419 Theme config loaded
+[debug] 19:19:53.419 Processed: _config.yml
+[debug] 19:19:53.420 Processed: languages/default.yml
+[debug] 19:19:53.422 Processed: languages/zh-CN.yml
+[debug] 19:19:53.423 Processed: languages/zh-TW.yml
+[debug] 19:19:53.429 Processed: layout/_partial/post/share.ejs
+[error] 19:19:53.453 Error: listen EADDRINUSE
+Error: listen EADDRINUSE
+    at errnoException (net.js:904:11)
+    at Server._listen2 (net.js:1042:14)
+    at listen (net.js:1064:10)
+    at net.js:1146:9
+    at dns.js:72:18
+    at process._tickDomainCallback (node.js:459:13)
