@@ -1,107 +1,30 @@
-date: 2014-04-07 19:19:53.536
-argv: node C:\Users\yely\AppData\Roaming\npm\node_modules\hexo\bin\hexo s
-os: Windows_NT 6.1.7600 win32 ia32
-version:
-  hexo: 2.5.2
-  http_parser: 1.0
-  node: 0.10.26
+date: "2014-09-02 11:05:30.973"
+argv: node /usr/local/bin/hexo g
+os: Darwin 13.3.0 darwin x64
+versions:
+  http_parser: "1.0"
+  node: 0.10.31
   v8: 3.14.5.9
   ares: 1.9.0-DEV
-  uv: 0.10.25
+  uv: 0.10.28
   zlib: 1.2.3
-  modules: 11
-  openssl: 1.0.1e
+  modules: "11"
+  openssl: 1.0.1i
+  hexo: 2.8.2
 ---
-
-[debug] 19:19:52.989 Config file loaded
-[debug] 19:19:52.994 Version info checked successfully
-[debug] 19:19:53.058 Loading database.
-[debug] 19:19:53.174 Plugin loaded successfully: hexo-generator-feed
-[debug] 19:19:53.204 Plugin loaded successfully: hexo-generator-sitemap
-[debug] 19:19:53.212 Plugin loaded successfully: hexo-tag-bootstrap
-[debug] 19:19:53.287 Processed: CNAME
-[debug] 19:19:53.288 Processed: img/logo.ico
-[debug] 19:19:53.301 Processed: img/logo.png
-[debug] 19:19:53.309 Processed: 404.html
-[debug] 19:19:53.324 Processed: about/index.md
-[debug] 19:19:53.325 Processed: categories/index.html
-[debug] 19:19:53.325 Processed: tags/index.html
-[debug] 19:19:53.325 Processed: _posts/2014-04-07-new-blog.md
-[debug] 19:19:53.328 Processed: LICENSE
-[debug] 19:19:53.328 Processed: README.md
-[debug] 19:19:53.378 Processed: source/css/bootstrap-responsive.css
-[debug] 19:19:53.379 Processed: source/css/bootstrap.min.css
-[debug] 19:19:53.380 Processed: source/css/font-awesome.css
-[debug] 19:19:53.387 Processed: source/css/highlight.css
-[debug] 19:19:53.388 Processed: source/css/responsive.css
-[debug] 19:19:53.389 Processed: source/css/style.css
-[debug] 19:19:53.389 Processed: source/fancybox/blank.gif
-[debug] 19:19:53.390 Processed: source/fancybox/fancybox_loading.gif
-[debug] 19:19:53.390 Processed: source/fancybox/fancybox_loading@2x.gif
-[debug] 19:19:53.390 Processed: source/fancybox/fancybox_overlay.png
-[debug] 19:19:53.391 Processed: source/fancybox/fancybox_sprite.png
-[debug] 19:19:53.391 Processed: source/fancybox/fancybox_sprite@2x.png
-[debug] 19:19:53.392 Processed: source/fancybox/jquery.fancybox.css
-[debug] 19:19:53.392 Processed: source/fancybox/jquery.fancybox.pack.js
-[debug] 19:19:53.393 Processed: source/fonts/FontAwesome.otf
-[debug] 19:19:53.394 Processed: source/fonts/fontawesome-webfont.eot
-[debug] 19:19:53.394 Processed: source/fonts/fontawesome-webfont.svg
-[debug] 19:19:53.395 Processed: source/fonts/fontawesome-webfont.ttf
-[debug] 19:19:53.396 Processed: source/fonts/fontawesome-webfont.woff
-[debug] 19:19:53.396 Processed: source/img/github-sprite.png
-[debug] 19:19:53.397 Processed: source/img/glyphicons-halflings-white.png
-[debug] 19:19:53.397 Processed: source/img/glyphicons-halflings.png
-[debug] 19:19:53.398 Processed: source/img/logo.ico
-[debug] 19:19:53.399 Processed: source/js/bootstrap.min.js
-[debug] 19:19:53.400 Processed: source/js/gallery.js
-[debug] 19:19:53.400 Processed: source/js/jquery-2.0.3.min.js
-[debug] 19:19:53.401 Processed: source/js/jquery.imagesloaded.min.js
-[debug] 19:19:53.402 Processed: source/js/main.js
-[debug] 19:19:53.407 Processed: layout/categories.ejs
-[debug] 19:19:53.407 Cache saved
-[debug] 19:19:53.407 Processed: layout/category.ejs
-[debug] 19:19:53.407 Processed: layout/index.ejs
-[debug] 19:19:53.407 Processed: layout/archive.ejs
-[debug] 19:19:53.407 Processed: layout/layout.ejs
-[debug] 19:19:53.408 Processed: layout/page.ejs
-[debug] 19:19:53.408 Processed: layout/post.ejs
-[debug] 19:19:53.408 Processed: layout/tag.ejs
-[debug] 19:19:53.408 Processed: layout/tags.ejs
-[debug] 19:19:53.408 Processed: layout/_widget/category.ejs
-[debug] 19:19:53.408 Processed: layout/_widget/links.ejs
-[debug] 19:19:53.408 Processed: layout/_widget/recent_posts.ejs
-[debug] 19:19:53.408 Processed: layout/_widget/search.ejs
-[debug] 19:19:53.408 Processed: layout/_widget/tagcloud.ejs
-[debug] 19:19:53.409 Processed: layout/_widget/weibo.ejs
-[debug] 19:19:53.409 Processed: layout/_partial/after_footer.ejs
-[debug] 19:19:53.410 Processed: layout/_partial/archive.ejs
-[debug] 19:19:53.410 Processed: layout/_partial/article.ejs
-[debug] 19:19:53.411 Processed: layout/_partial/footer.ejs
-[debug] 19:19:53.411 Processed: layout/_partial/head.ejs
-[debug] 19:19:53.411 Processed: layout/_partial/index.ejs
-[debug] 19:19:53.411 Processed: layout/_partial/index_pagination.ejs
-[debug] 19:19:53.412 Processed: layout/_partial/navigation.ejs
-[debug] 19:19:53.412 Processed: layout/_partial/sidebar.ejs
-[debug] 19:19:53.412 Processed: layout/_partial/post/comment.ejs
-[debug] 19:19:53.412 Processed: layout/_partial/post/entry.ejs
-[debug] 19:19:53.412 Processed: layout/_partial/post/google_analytics.ejs
-[debug] 19:19:53.412 Processed: layout/_partial/post/meta.ejs
-[debug] 19:19:53.412 Processed: layout/_partial/post/pagination.ejs
-[debug] 19:19:53.412 Processed: layout/_partial/post/slogan.ejs
-[debug] 19:19:53.412 Processed: layout/_partial/post/tag.ejs
-[debug] 19:19:53.412 Processed: layout/_partial/post/title.ejs
-[debug] 19:19:53.412 Processed: layout/_partial/post/category.ejs
-[debug] 19:19:53.419 Theme config loaded
-[debug] 19:19:53.419 Processed: _config.yml
-[debug] 19:19:53.420 Processed: languages/default.yml
-[debug] 19:19:53.422 Processed: languages/zh-CN.yml
-[debug] 19:19:53.423 Processed: languages/zh-TW.yml
-[debug] 19:19:53.429 Processed: layout/_partial/post/share.ejs
-[error] 19:19:53.453 Error: listen EADDRINUSE
-Error: listen EADDRINUSE
-    at errnoException (net.js:904:11)
-    at Server._listen2 (net.js:1042:14)
-    at listen (net.js:1064:10)
-    at net.js:1146:9
-    at dns.js:72:18
-    at process._tickDomainCallback (node.js:459:13)
+[debug] 11:05:29.872 Config file loaded from /Users/apple/code/blog_source/_config.yml[debug] 11:05:29.901 Version info checked successfully[debug] 11:05:29.995 Loading database.[debug] 11:05:30.116 Processed: draft.md (21ms)[debug] 11:05:30.116 Processed: page.md (21ms)[debug] 11:05:30.118 Processed: photo.md (23ms)[debug] 11:05:30.118 Processed: post.md (23ms)[debug] 11:05:30.197 Plugin loaded successfully: hexo-generator-feed[debug] 11:05:30.230 Plugin loaded successfully: hexo-generator-sitemap[debug] 11:05:30.282 Plugin loaded successfully: hexo-renderer-ejs[debug] 11:05:30.339 Plugin loaded successfully: hexo-renderer-marked[debug] 11:05:30.852 Plugin loaded successfully: hexo-renderer-stylus[debug] 11:05:30.865 Plugin loaded successfully: hexo-tag-bootstrap[debug] 11:05:30.898 Processed: 404.html (2ms)[debug] 11:05:30.899 Processed: CNAME (1ms)[debug] 11:05:30.899 Processed: baidu_verify_xsjdp7alnI.html (0ms)[debug] 11:05:30.902 Processed: _posts/2014-04-07-hello.md (3ms)[debug] 11:05:30.903 Processed: _posts/2014-04-07-new-blog.md (1ms)[debug] 11:05:30.904 Processed: _posts/2014-04-07-test.md (1ms)[debug] 11:05:30.905 Processed: _posts/2014-08-31-start-again.md (1ms)[debug] 11:05:30.905 Processed: _posts/2014-09-01-hello.md (0ms)[debug] 11:05:30.905 Processed: _posts/hello-world.md (0ms)[debug] 11:05:30.906 Processed: about/index.md (0ms)[debug] 11:05:30.906 Processed: categories/index.html (0ms)[debug] 11:05:30.906 Processed: img/logo.ico (0ms)[debug] 11:05:30.906 Processed: img/logo.png (0ms)[debug] 11:05:30.907 Processed: tags/index.html (1ms)[debug] 11:05:30.915 Processed: source/css/bootstrap-responsive.css (0ms)[debug] 11:05:30.916 Processed: source/css/bootstrap.min.css (1ms)[debug] 11:05:30.916 Processed: source/css/font-awesome.css (0ms)[debug] 11:05:30.916 Processed: source/css/highlight.css (0ms)[debug] 11:05:30.916 Processed: source/css/responsive.css (0ms)[debug] 11:05:30.916 Processed: source/css/style.css (0ms)[debug] 11:05:30.916 Processed: source/fancybox/blank.gif (0ms)[debug] 11:05:30.918 Processed: source/fancybox/fancybox_loading.gif (2ms)[debug] 11:05:30.918 Processed: source/fancybox/fancybox_loading@2x.gif (0ms)[debug] 11:05:30.918 Processed: source/fancybox/fancybox_overlay.png (0ms)[debug] 11:05:30.918 Processed: source/fancybox/fancybox_sprite.png (0ms)[debug] 11:05:30.919 Processed: source/fancybox/fancybox_sprite@2x.png (1ms)[debug] 11:05:30.919 Processed: source/fancybox/jquery.fancybox.css (0ms)[debug] 11:05:30.919 Processed: source/fancybox/jquery.fancybox.pack.js (0ms)[debug] 11:05:30.919 Processed: source/fonts/FontAwesome.otf (0ms)[debug] 11:05:30.919 Processed: source/fonts/fontawesome-webfont.eot (0ms)[debug] 11:05:30.919 Processed: source/fonts/fontawesome-webfont.svg (0ms)[debug] 11:05:30.919 Processed: source/fonts/fontawesome-webfont.ttf (0ms)[debug] 11:05:30.919 Processed: source/fonts/fontawesome-webfont.woff (0ms)[debug] 11:05:30.920 Processed: source/img/github-sprite.png (1ms)[debug] 11:05:30.920 Processed: source/img/glyphicons-halflings-white.png (0ms)[debug] 11:05:30.920 Processed: source/img/glyphicons-halflings.png (0ms)[debug] 11:05:30.920 Processed: source/img/logo.ico (0ms)[debug] 11:05:30.920 Processed: source/js/bootstrap.min.js (0ms)[debug] 11:05:30.920 Processed: source/js/gallery.js (0ms)[debug] 11:05:30.920 Processed: source/js/jquery-2.0.3.min.js (0ms)[debug] 11:05:30.920 Processed: source/js/jquery.imagesloaded.min.js (0ms)[debug] 11:05:30.920 Processed: source/js/main.js (0ms)[debug] 11:05:30.939 Processed: layout/archive.ejs (19ms)[debug] 11:05:30.939 Processed: layout/categories.ejs (18ms)[debug] 11:05:30.939 Processed: layout/category.ejs (18ms)[debug] 11:05:30.939 Processed: layout/index.ejs (18ms)[debug] 11:05:30.939 Processed: layout/layout.ejs (18ms)[debug] 11:05:30.939 Processed: layout/post.ejs (18ms)[debug] 11:05:30.939 Processed: layout/page.ejs (18ms)[debug] 11:05:30.940 Processed: layout/tag.ejs (19ms)[debug] 11:05:30.940 Processed: layout/tags.ejs (19ms)[debug] 11:05:30.940 Processed: layout/_widget/category.ejs (18ms)[debug] 11:05:30.940 Processed: layout/_widget/links.ejs (18ms)[debug] 11:05:30.940 Processed: layout/_widget/map.ejs (18ms)[debug] 11:05:30.940 Processed: layout/_widget/recent_posts.ejs (18ms)[debug] 11:05:30.940 Processed: layout/_widget/search.ejs (18ms)[debug] 11:05:30.940 Processed: layout/_widget/tagcloud.ejs (18ms)[debug] 11:05:30.940 Processed: layout/_partial/after_footer.ejs (18ms)[debug] 11:05:30.940 Processed: layout/_widget/weibo.ejs (18ms)[debug] 11:05:30.940 Processed: layout/_partial/archive.ejs (17ms)[debug] 11:05:30.940 Processed: layout/_partial/article.ejs (17ms)[debug] 11:05:30.940 Processed: layout/_partial/footer.ejs (17ms)[debug] 11:05:30.940 Processed: layout/_partial/head.ejs (17ms)[debug] 11:05:30.940 Processed: layout/_partial/index.ejs (17ms)[debug] 11:05:30.940 Processed: layout/_partial/index_pagination.ejs (17ms)[debug] 11:05:30.940 Processed: layout/_partial/navigation.ejs (16ms)[debug] 11:05:30.940 Processed: layout/_partial/sidebar.ejs (16ms)[debug] 11:05:30.940 Processed: layout/_partial/post/comment.ejs (16ms)[debug] 11:05:30.940 Processed: layout/_partial/post/category.ejs (16ms)[debug] 11:05:30.940 Processed: layout/_partial/post/google_analytics.ejs (16ms)[debug] 11:05:30.940 Processed: layout/_partial/post/meta.ejs (16ms)[debug] 11:05:30.940 Processed: layout/_partial/post/pagination.ejs (16ms)[debug] 11:05:30.941 Processed: layout/_partial/post/share.ejs (17ms)[debug] 11:05:30.941 Processed: layout/_partial/post/entry.ejs (17ms)[debug] 11:05:30.941 Processed: layout/_partial/post/slogan.ejs (17ms)[debug] 11:05:30.941 Processed: layout/_partial/post/tag.ejs (17ms)[debug] 11:05:30.941 Processed: layout/_partial/post/title.ejs (17ms)[debug] 11:05:30.946 Theme config loaded[debug] 11:05:30.946 Processed: _config.yml (32ms)[debug] 11:05:30.947 Processed: languages/zh-CN.yml (32ms)[debug] 11:05:30.947 Processed: languages/zh-TW.yml (32ms)[error] 11:05:30.965 { name: 'HexoError',
+  reason: 'incomplete explicit mapping pair; a key node is missed',
+  mark: 
+   { name: null,
+     buffer: 'categories: Categories\nsearch: Search\ntags: Tags\ntagcloud: Tag Cloud\ntweets: Tweets\nprev: Prev\nnext: Next\ncomment: Comments\narchive_a: Archives\narchive_b: Archives: %s\npage: Page %d\nrecent_posts: Recent Posts\ndescription: Description\nread_more: Read More\n\u0000',
+     position: 163,
+     line: 9,
+     column: 19 },
+  message: 'Process failed: languages/default.yml',
+  domain: 
+   { domain: null,
+     _events: { error: [Function] },
+     _maxListeners: 10,
+     members: [ [Object] ] },
+  domainThrown: true,
+  stack: undefined }
